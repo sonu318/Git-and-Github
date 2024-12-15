@@ -26,3 +26,5 @@ https://www.youtube.com/watch?v=apGV9Kg7ics
 15. cat names.txt
 
 16. git stash
+
+17. git stash clear
