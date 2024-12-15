@@ -23,4 +23,6 @@ https://www.youtube.com/watch?v=apGV9Kg7ics
 
 14. vi names.txt
 
-15. git stash
+15. cat names.txt
+
+16. git stash
