@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=apGV9Kg7ics
     
 12. git add names.txt
 
-13. git rm -rf names.txt
+13. rm -rf names.txt
