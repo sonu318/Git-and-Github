@@ -37,4 +37,6 @@ https://www.youtube.com/watch?v=apGV9Kg7ics
 
 21. git branch feature
 
-22. git checkout feature 
+22. git checkout feature
+
+23. git merge feature
