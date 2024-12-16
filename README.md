@@ -40,3 +40,7 @@ https://www.youtube.com/watch?v=apGV9Kg7ics
 22. git checkout feature
 
 23. git merge feature
+
+24. git clone URL
+
+25. git remote add upstream URL 
