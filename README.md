@@ -28,3 +28,9 @@ https://www.youtube.com/watch?v=apGV9Kg7ics
 16. git stash
 
 17. git stash clear
+
+18. git remote add origin URL
+
+19. git remote -v
+
+20. git push origin master
