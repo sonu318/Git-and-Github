@@ -43,4 +43,6 @@ https://www.youtube.com/watch?v=apGV9Kg7ics
 
 24. git clone URL
 
-25. git remote add upstream URL 
+25. git remote add upstream URL
+
+26. git pull upstream main
