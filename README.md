@@ -34,3 +34,7 @@ https://www.youtube.com/watch?v=apGV9Kg7ics
 19. git remote -v
 
 20. git push origin master
+
+21. git branch feature
+
+22. git checkout feature 
