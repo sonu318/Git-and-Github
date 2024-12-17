@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=apGV9Kg7ics
 
+# Git cheat sheet
+
+https://education.github.com/git-cheat-sheet-education.pdf
+
 
 1 . git init
 
